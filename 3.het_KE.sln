@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.het_KE", "3.het_KE\3.het_KE.csproj", "{AA953625-BC3B-4553-B0B6-32DE6BE2749F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA953625-BC3B-4553-B0B6-32DE6BE2749F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA953625-BC3B-4553-B0B6-32DE6BE2749F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA953625-BC3B-4553-B0B6-32DE6BE2749F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA953625-BC3B-4553-B0B6-32DE6BE2749F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
