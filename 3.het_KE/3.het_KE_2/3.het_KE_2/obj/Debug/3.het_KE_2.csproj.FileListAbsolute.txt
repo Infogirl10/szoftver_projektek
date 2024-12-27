@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\3.het_KE_2\3.het_KE_2\bin\Debug\3.het_KE_2.exe.config
+C:\Users\User\source\repos\3.het_KE_2\3.het_KE_2\bin\Debug\3.het_KE_2.exe
+C:\Users\User\source\repos\3.het_KE_2\3.het_KE_2\bin\Debug\3.het_KE_2.pdb
+C:\Users\User\source\repos\3.het_KE_2\3.het_KE_2\obj\Debug\3.het_KE_2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\3.het_KE_2\3.het_KE_2\obj\Debug\3.het_KE_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\3.het_KE_2\3.het_KE_2\obj\Debug\3.het_KE_2.exe
+C:\Users\User\source\repos\3.het_KE_2\3.het_KE_2\obj\Debug\3.het_KE_2.pdb
